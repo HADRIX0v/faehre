@@ -1,0 +1,67 @@
+E:\!Data\joerg\Schule\DBB\AS91\WI\Klausuren\Fähr_Preise_HKE\Fähr_Preise\bin\Debug\Fähr_Preise.exe
+E:\!Data\joerg\Schule\DBB\AS91\WI\Klausuren\Fähr_Preise_HKE\Fähr_Preise\bin\Debug\Fähr_Preise.pdb
+E:\!Data\joerg\Schule\DBB\AS91\WI\Klausuren\Fähr_Preise_HKE\Fähr_Preise\bin\Debug\Fähr_Preise.xml
+E:\!Data\joerg\Schule\DBB\AS91\WI\Klausuren\Fähr_Preise_HKE\Fähr_Preise\obj\Debug\ResolveAssemblyReference.cache
+E:\!Data\joerg\Schule\DBB\AS91\WI\Klausuren\Fähr_Preise_HKE\Fähr_Preise\obj\Debug\Fähr_Preise.Form1.resources
+E:\!Data\joerg\Schule\DBB\AS91\WI\Klausuren\Fähr_Preise_HKE\Fähr_Preise\obj\Debug\Fähr_Preise.Resources.resources
+E:\!Data\joerg\Schule\DBB\AS91\WI\Klausuren\Fähr_Preise_HKE\Fähr_Preise\obj\Debug\Fähr_Preise.vbproj.GenerateResource.Cache
+E:\!Data\joerg\Schule\DBB\AS91\WI\Klausuren\Fähr_Preise_HKE\Fähr_Preise\obj\Debug\Fähr_Preise.exe
+E:\!Data\joerg\Schule\DBB\AS91\WI\Klausuren\Fähr_Preise_HKE\Fähr_Preise\obj\Debug\Fähr_Preise.xml
+E:\!Data\joerg\Schule\DBB\AS91\WI\Klausuren\Fähr_Preise_HKE\Fähr_Preise\obj\Debug\Fähr_Preise.pdb
+F:\Schule\DBB\AS91\WI\Klausuren\Fähr_Preise_HKE\Fähr_Preise\obj\Debug\Fähr_Preise.exe
+F:\Schule\DBB\AS91\WI\Klausuren\Fähr_Preise_HKE\Fähr_Preise\obj\Debug\Fähr_Preise.xml
+F:\Schule\DBB\AS91\WI\Klausuren\Fähr_Preise_HKE\Fähr_Preise\obj\Debug\Fähr_Preise.pdb
+F:\Schule\DBB\AS91\WI\Klausuren\Fähr_Preise_HKE\Fähr_Preise\obj\Debug\ResolveAssemblyReference.cache
+F:\Schule\DBB\AS91\WI\Klausuren\Fähr_Preise_HKE\Fähr_Preise\obj\Debug\Fähr_Preise.Form1.resources
+F:\Schule\DBB\AS91\WI\Klausuren\Fähr_Preise_HKE\Fähr_Preise\obj\Debug\Fähr_Preise.Resources.resources
+F:\Schule\DBB\AS91\WI\Klausuren\Fähr_Preise_HKE\Fähr_Preise\obj\Debug\Fähr_Preise.vbproj.GenerateResource.Cache
+F:\Schule\DBB\AS91\WI\Klausuren\Fähr_Preise_HKE\Fähr_Preise\bin\Debug\Fähr_Preise.exe
+F:\Schule\DBB\AS91\WI\Klausuren\Fähr_Preise_HKE\Fähr_Preise\bin\Debug\Fähr_Preise.pdb
+F:\Schule\DBB\AS91\WI\Klausuren\Fähr_Preise_HKE\Fähr_Preise\bin\Debug\Fähr_Preise.xml
+F:\Schule\DBB2\Wi\Visual Studio Projects\Fähr_Preise_HKE\Fähr_Preise\obj\Debug\Fähr_Preise.exe
+F:\Schule\DBB2\Wi\Visual Studio Projects\Fähr_Preise_HKE\Fähr_Preise\obj\Debug\Fähr_Preise.xml
+F:\Schule\DBB2\Wi\Visual Studio Projects\Fähr_Preise_HKE\Fähr_Preise\obj\Debug\Fähr_Preise.pdb
+F:\Schule\DBB2\Wi\Visual Studio Projects\Fähr_Preise_HKE\Fähr_Preise\bin\Debug\Fähr_Preise.exe
+F:\Schule\DBB2\Wi\Visual Studio Projects\Fähr_Preise_HKE\Fähr_Preise\bin\Debug\Fähr_Preise.pdb
+F:\Schule\DBB2\Wi\Visual Studio Projects\Fähr_Preise_HKE\Fähr_Preise\bin\Debug\Fähr_Preise.xml
+F:\Schule\DBB2\Wi\Visual Studio Projects\Fähr_Preise_HKE\Fähr_Preise\obj\Debug\ResolveAssemblyReference.cache
+F:\Schule\DBB2\Wi\Visual Studio Projects\Fähr_Preise_HKE\Fähr_Preise\obj\Debug\Fähr_Preise.Form1.resources
+F:\Schule\DBB2\Wi\Visual Studio Projects\Fähr_Preise_HKE\Fähr_Preise\obj\Debug\Fähr_Preise.Resources.resources
+F:\Schule\DBB2\Wi\Visual Studio Projects\Fähr_Preise_HKE\Fähr_Preise\obj\Debug\Fähr_Preise.vbproj.GenerateResource.Cache
+L:\vb.net\Visual Studio Projects HKE\Fähr_Preise_HKE\Fähr_Preise\obj\Debug\Fähr_Preise.exe
+L:\vb.net\Visual Studio Projects HKE\Fähr_Preise_HKE\Fähr_Preise\obj\Debug\Fähr_Preise.xml
+L:\vb.net\Visual Studio Projects HKE\Fähr_Preise_HKE\Fähr_Preise\obj\Debug\Fähr_Preise.pdb
+H:\_Klassen\FS\FS12\VB\Fähr_Preise\Fähre_Lösung\Fähr_Preise\obj\Debug\Fähr_Preise.exe
+H:\_Klassen\FS\FS12\VB\Fähr_Preise\Fähre_Lösung\Fähr_Preise\obj\Debug\Fähr_Preise.xml
+H:\_Klassen\FS\FS12\VB\Fähr_Preise\Fähre_Lösung\Fähr_Preise\obj\Debug\Fähr_Preise.pdb
+F:\_Klassen\AS\AS01b_WI\Fähr_Preise\Fähre_Lösung\Fähr_Preise\obj\Debug\Fähr_Preise.exe
+F:\_Klassen\AS\AS01b_WI\Fähr_Preise\Fähre_Lösung\Fähr_Preise\obj\Debug\Fähr_Preise.xml
+F:\_Klassen\AS\AS01b_WI\Fähr_Preise\Fähre_Lösung\Fähr_Preise\obj\Debug\Fähr_Preise.pdb
+F:\_Klassen\AS\AS01b_WI\Fähr_Preise\Fähre_Lösung\Fähr_Preise\bin\Debug\Fähr_Preise.exe
+F:\_Klassen\AS\AS01b_WI\Fähr_Preise\Fähre_Lösung\Fähr_Preise\bin\Debug\Fähr_Preise.pdb
+F:\_Klassen\AS\AS01b_WI\Fähr_Preise\Fähre_Lösung\Fähr_Preise\bin\Debug\Fähr_Preise.xml
+F:\_Klassen\AS\AS01b_WI\Fähr_Preise\Fähre_Lösung\Fähr_Preise\obj\Debug\ResolveAssemblyReference.cache
+F:\_Klassen\AS\AS01b_WI\Fähr_Preise\Fähre_Lösung\Fähr_Preise\obj\Debug\Fähr_Preise.Form1.resources
+F:\_Klassen\AS\AS01b_WI\Fähr_Preise\Fähre_Lösung\Fähr_Preise\obj\Debug\Fähr_Preise.Resources.resources
+F:\_Klassen\AS\AS01b_WI\Fähr_Preise\Fähre_Lösung\Fähr_Preise\obj\Debug\GenerateResource.read.1.tlog
+F:\_Klassen\AS\AS01b_WI\Fähr_Preise\Fähre_Lösung\Fähr_Preise\obj\Debug\GenerateResource.write.1.tlog
+F:\_Klassen\AS\AS01b_WI\Fähr_Preise\Fähre_Leer - NN\Fähr_Preise\obj\Debug\Fähr_Preise.exe
+F:\_Klassen\AS\AS01b_WI\Fähr_Preise\Fähre_Leer - NN\Fähr_Preise\obj\Debug\Fähr_Preise.xml
+F:\_Klassen\AS\AS01b_WI\Fähr_Preise\Fähre_Leer - NN\Fähr_Preise\obj\Debug\Fähr_Preise.pdb
+E:\_Klassen\AS\AS01b_WI\Fähr_Preise\Fähre_Leer - NN\Fähr_Preise\obj\Debug\Fähr_Preise.exe
+E:\_Klassen\AS\AS01b_WI\Fähr_Preise\Fähre_Leer - NN\Fähr_Preise\obj\Debug\Fähr_Preise.xml
+E:\_Klassen\AS\AS01b_WI\Fähr_Preise\Fähre_Leer - NN\Fähr_Preise\obj\Debug\Fähr_Preise.pdb
+F:\2015\IT\IT1a\vb\Fähr_Preise\Fähre_Leer - NN\Fähr_Preise\obj\Debug\Fähr_Preise.exe
+F:\2015\IT\IT1a\vb\Fähr_Preise\Fähre_Leer - NN\Fähr_Preise\obj\Debug\Fähr_Preise.xml
+F:\2015\IT\IT1a\vb\Fähr_Preise\Fähre_Leer - NN\Fähr_Preise\obj\Debug\Fähr_Preise.pdb
+D:\DBB_Cloud_Paed\2019\IT\IT1a\C#\Fähr_Preise\Fähre_Leer - NN\Fähr_Preise\bin\Debug\Fähr_Preise.exe
+D:\DBB_Cloud_Paed\2019\IT\IT1a\C#\Fähr_Preise\Fähre_Leer - NN\Fähr_Preise\bin\Debug\Fähr_Preise.pdb
+D:\DBB_Cloud_Paed\2019\IT\IT1a\C#\Fähr_Preise\Fähre_Leer - NN\Fähr_Preise\bin\Debug\Fähr_Preise.xml
+D:\DBB_Cloud_Paed\2019\IT\IT1a\C#\Fähr_Preise\Fähre_Leer - NN\Fähr_Preise\obj\Debug\Fähr_Preise.vbprojAssemblyReference.cache
+D:\DBB_Cloud_Paed\2019\IT\IT1a\C#\Fähr_Preise\Fähre_Leer - NN\Fähr_Preise\obj\Debug\Fähr_Preise.Form1.resources
+D:\DBB_Cloud_Paed\2019\IT\IT1a\C#\Fähr_Preise\Fähre_Leer - NN\Fähr_Preise\obj\Debug\Fähr_Preise.Resources.resources
+D:\DBB_Cloud_Paed\2019\IT\IT1a\C#\Fähr_Preise\Fähre_Leer - NN\Fähr_Preise\obj\Debug\Fähr_Preise.vbproj.GenerateResource.cache
+D:\DBB_Cloud_Paed\2019\IT\IT1a\C#\Fähr_Preise\Fähre_Leer - NN\Fähr_Preise\obj\Debug\Fähr_Preise.vbproj.CoreCompileInputs.cache
+D:\DBB_Cloud_Paed\2019\IT\IT1a\C#\Fähr_Preise\Fähre_Leer - NN\Fähr_Preise\obj\Debug\Fähr_Preise.exe
+D:\DBB_Cloud_Paed\2019\IT\IT1a\C#\Fähr_Preise\Fähre_Leer - NN\Fähr_Preise\obj\Debug\Fähr_Preise.xml
+D:\DBB_Cloud_Paed\2019\IT\IT1a\C#\Fähr_Preise\Fähre_Leer - NN\Fähr_Preise\obj\Debug\Fähr_Preise.pdb
